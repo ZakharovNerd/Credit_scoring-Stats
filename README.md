@@ -1,2 +1,2 @@
 # Credit_scoring-Stats
-final assignment at stats for DS Coursera course by Yandex and MIPT.
+final assignment in stats for DS course by Yandex and MIPT at Coursera.
